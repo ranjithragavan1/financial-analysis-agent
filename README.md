@@ -1,5 +1,7 @@
 # 🤖 Enterprise Financial Analysis Agent (Hybrid RAG)
 
+**Current Status:** 🟢 Active Development | Preparing for v2 release
+
 An autonomous AI agent designed to analyze complex financial documents (10-K reports). Built with a **Hybrid Cloud Architecture** to optimize for data privacy and inference costs.
 
 ## 🚀 Key Features
